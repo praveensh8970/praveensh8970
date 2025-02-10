@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 I have total 12+ years of experience in IT Industry.
 
-Currently working in Bosch Global Software Technologies pvt. ltd. as a 'Technical Lead'.
+Currently working in Bosch Global Software Technologies pvt. ltd. as a 'Technical Lead'. 
+
+Working as a contributor, extension developer and consultant for IBM ELM (as DNG & SCM Expert) on Process, Methods & Tools for the projects.
 
 I have worked in leading organizes : Mindtree Ltd, Robert Bosch & CME Group.
 
