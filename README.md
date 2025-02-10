@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I am Praveen Hanchinamani
 
 <!--
 **praveensh8970/praveensh8970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I have total 12+ years of experience in IT Industry.
+
+Currently working in Bosch Global Software Technologies pvt. ltd. as a 'Technical Lead'.
