@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 I have total 12+ years of experience in IT Industry.
-
 Currently working in Bosch Global Software Technologies pvt. ltd. as a 'Technical Lead'.
+I have worked in leading organizes : Mindtree Ltd, Robert Bosch & CME Group.
+I have a profund experience in: Java, J2EE, Spring, Springboot, Hibernate, RESTfull WS, Python, IBM ELM, Git, GitHub, Python3, MySQL
